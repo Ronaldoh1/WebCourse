@@ -1,0 +1,49 @@
+li {
+  border: 2px solid red;
+}
+#special {
+  background: yellow;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+
+/* an id will only show once and a class can show up on a page multiple times. */
+
+/* selectors*
+
+/* Elements */
+
+l1 {
+
+}
+
+/* class */
+.hello {
+
+}
+
+/* id */
+#name {
+
+}
+
+/* Star */ /* the star is used   */
+
+* {
+  border: 1px solid light;
+}
+
+/* Descendant Selector */
+li a {
+  color: red;
+}
+/* Adjacent Selector */
+h4 + ul {
+  border: 4x solid light;
+}
+/* Attribute Selector */
+
+/* nth of types */

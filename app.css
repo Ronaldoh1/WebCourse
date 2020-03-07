@@ -1,9 +1,21 @@
 /* must be in the same directory as html */
 
 h1 {
-  color: red;
+  color: rgba(0, 200, 100, 0.8);
+  border-color: purple;
+  border-width: 5px;
+  border-style: solid;
 }
 
-li {
-   color: green;
+h4 {
+   background: rgb(255, 100, 80);
 }
+
+body {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdREANHAoSAAozc-OTddNReGMM82DBhCmhWXFuKzTREhFw_7MO);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Hexidemial colors  #000000 - black  Hexidecimal are base 16. */
