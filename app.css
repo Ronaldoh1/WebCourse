@@ -1,0 +1,9 @@
+/* must be in the same directory as html */
+
+h1 {
+  color: red;
+}
+
+li {
+   color: green;
+}
