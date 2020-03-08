@@ -11,3 +11,7 @@ while(counter <= 40) {
   console.log(counter);
   counter += 2;
 }
+
+for (var count = 0; count < 10; count++) {
+  console.log(count);
+}
