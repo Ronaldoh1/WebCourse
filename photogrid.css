@@ -4,7 +4,11 @@ img {
   margin: 1.66%
 }
 
-h1 {
+p {
   font-family: Roboto;
-  margin-left: 1.66%
+  margin-left: 1.66%;
+  font-size: 23px;
+  text-transform: uppercase;
+  border-bottom: 2px solid red;
+  width: 30%
 }
